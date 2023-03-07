@@ -17,3 +17,5 @@
  1. 크롤링
  - 수집사이트 : 네이버맵 or 카카오맵
  - 목적 : 스튜디오 주변 맛집 혹은 거주지 주변 맛집 탐색
+ - 설치해야할 패키지
+ > BeautifulSoup / selenium / webdriver_manager
