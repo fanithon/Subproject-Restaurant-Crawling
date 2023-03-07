@@ -6,7 +6,7 @@
 
 ---
 #### 사용한 기술 스택
----
+
 <img src="https://img.shields.io/badge/Python-red?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-yellow?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-blue?style=flat&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Selenuim-success?style=flat&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/pandas-yellowgreen?style=flat&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Folium-ff69b4?style=flat&logo=Folium&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-blueviolet?style=flat&logo=Visual Studio Code&logoColor=white">
 ---
 
